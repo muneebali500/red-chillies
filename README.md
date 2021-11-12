@@ -6,7 +6,7 @@ This is a Frontend Development project Designed and Developed by me using HTML a
 
 [Link to Live Project](https://muneebali500.github.io/red-chillies/)
 
-![eagler website](/img/landing.png)
+![landing page](/img/landing.png)
 
 ## Technologies Used
 
